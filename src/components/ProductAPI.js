@@ -1,4 +1,4 @@
-let products = [
+const products = [
     {
         "id": 1,
         "name": "Example Laptop",
@@ -104,3 +104,4 @@ let products = [
         }
       }
 ];
+export default products;
